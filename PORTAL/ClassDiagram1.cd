@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Boton">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Complement\Boton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAAAAAAAAAAAAAABAAABAAAAAAABABCAAAAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Complement\Cubo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Disparo">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAACIAAAAAABAABEAQAAAAKAABAgAAAAAAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Disparo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestor" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Gestor::Estado" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Gestor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAECAgBAAAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAEI=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Gestor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Juego" Collapsed="true">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAABBCAAAEAAAAAAAIQAABAAABAAAABAEAAAAAAAkI=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Juego.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mujer">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAACAAAAAAAACABAAAAAABCAAAAAAAAAhAAAAAABAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Mujer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mundo" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAQAAAAAAAEAIAAAABAAABAAAAAAEAAAMAAAAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Mundo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjetoActivable">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAIAAgAAAAAAEADCAAAAAIAAAAAAAIAEAAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Complement\ObjetoActivable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjetoCinematico">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAYAAABAAAAAggAAAAEAAAABAAAAAEACM=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\ObjetoCinematico.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAEA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\OpenGL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pared" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAiBAAAAAAAAAAABAABEQQAAAACAAB4AAAAIAAY=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Pared.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portal" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAgAQAAAAgAAAAABAAhGAAIAAAAAAAAAAAAFAAQ=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Portal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Puerta">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAABAIAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Complement\Puerta.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Relaciones" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAgAAAICIAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Relaciones.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector3D" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQEYAEAAQAAAAAAAAAAAABgAQAAAAg=</HashCode>
+      <FileName>c:\Users\Carlos\Dropbox\Carlos &amp; Pedro\PORTAL\Basic\Vector3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
